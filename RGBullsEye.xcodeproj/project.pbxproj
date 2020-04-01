@@ -13,6 +13,7 @@
 		767024EB242FC2080038D909 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 767024EA242FC2080038D909 /* Assets.xcassets */; };
 		767024EE242FC2080038D909 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 767024ED242FC2080038D909 /* Preview Assets.xcassets */; };
 		767024F1242FC2080038D909 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 767024EF242FC2080038D909 /* LaunchScreen.storyboard */; };
+		9C3251322435326500C4551A /* TimeCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C3251312435326500C4551A /* TimeCounter.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		767024ED242FC2080038D909 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		767024F0242FC2080038D909 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		767024F2242FC2080038D909 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C3251312435326500C4551A /* TimeCounter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeCounter.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				767024EF242FC2080038D909 /* LaunchScreen.storyboard */,
 				767024F2242FC2080038D909 /* Info.plist */,
 				767024EC242FC2080038D909 /* Preview Content */,
+				9C3251312435326500C4551A /* TimeCounter.swift */,
 			);
 			path = RGBullsEye;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 				767024E5242FC2060038D909 /* AppDelegate.swift in Sources */,
 				767024E7242FC2060038D909 /* SceneDelegate.swift in Sources */,
 				767024E9242FC2060038D909 /* ContentView.swift in Sources */,
+				9C3251322435326500C4551A /* TimeCounter.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
